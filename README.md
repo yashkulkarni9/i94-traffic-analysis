@@ -34,9 +34,9 @@
 - Google Colab / Jupyter Notebook – Running and displaying visualizations
 
 ## 📁 Dataset Used
-- Name: Metro Interstate Traffic Volume
+- Name: [Metro Interstate Traffic Volume]([url](https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume))
 
-- Source: [UCI Machine Learning Repository]([https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume]())
+- Source: UCI Machine Learning Repository
 
 - File Name: Metro_Interstate_Traffic_Volume.csv
 
