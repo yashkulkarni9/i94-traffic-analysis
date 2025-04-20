@@ -67,7 +67,7 @@ env\Scripts\activate     # Windows
 ```
 pip install pandas matplotlib seaborn
 ```
-- Download the Dataset You can download it manually from the UCI Repository
+- Download the Dataset You can download it manually from the [UCI Repository](https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume)
 Save it as:
 Metro_Interstate_Traffic_Volume.csv
 
