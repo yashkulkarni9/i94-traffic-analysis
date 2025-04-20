@@ -36,7 +36,7 @@
 ## 📁 Dataset Used
 - Name: Metro Interstate Traffic Volume
 
-- Source: [UCI Machine Learning Repository]([url](https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume))
+- Source: [UCI Machine Learning Repository]([https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume]())
 
 - File Name: Metro_Interstate_Traffic_Volume.csv
 
@@ -53,7 +53,7 @@ Make sure you have the following installed:
 ### 📥 Step-by-Step Setup Instructions
 - Clone the Repository
 ```
-git clone https://github.com/your-username/i94-traffic-analysis.git
+git clone https://github.com/yashkulkarni9/i94-traffic-analysis.git
 cd i94-traffic-analysis
 ```
 - Create a Virtual Environment (Optional but Recommended)
