@@ -89,3 +89,17 @@ jupyter notebook
 - Logistics Optimization: Improve delivery schedules based on traffic patterns
 
 - Weather Insights: Understand how rain/snow affects traffic
+
+### Code Results:
+![download1](https://github.com/user-attachments/assets/42a129cf-fa14-4cf1-a098-210e13f57d0a)
+
+![download2](https://github.com/user-attachments/assets/5cda3ed9-9be9-47ba-aa9b-0a6021a82c09)
+
+![download3](https://github.com/user-attachments/assets/92d19ea1-ced7-4400-b283-983c322d11fc)
+
+![download4](https://github.com/user-attachments/assets/79256dad-aded-4e8a-b375-9c59d4ea771e)
+
+![download5](https://github.com/user-attachments/assets/9b073f40-5efa-48e9-988b-c6e68b803f86)
+
+![download6](https://github.com/user-attachments/assets/9a8cceb3-33f6-4412-8448-3fb5ca2fd048)
+
